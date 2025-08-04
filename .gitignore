@@ -1,0 +1,20 @@
+History
+Project Logs*
+Project outputs*
+__Previews
+PowerAnalyzer*
+~*
+
+# STM32 related
+*.ioc
+*.launch
+*.ld
+.settings
+.cproject
+.project
+.mxproject
+Debug
+Release
+
+# Blender related
+*.png
