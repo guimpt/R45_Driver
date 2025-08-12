@@ -183,6 +183,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MVOZUROO
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for R45_Driver\Design Rule Check - R45_Driver.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=PCB_Revision
 Value=linear_driver_v1.0
@@ -1347,6 +1351,31 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+
+[NetInfos]
+Net1=NetName=+VBUS|NetColor=$006724DA
+Net2=NetName=CAN_n|NetColor=$0001F1FD
+Net3=NetName=CAN_p|NetColor=$0001F1FD
+Net4=NetName=CAN_RX|NetColor=$0001F1FD
+Net5=NetName=CAN_TX|NetColor=$0001F1FD
+Net6=NetName=GH_A|NetColor=$006724DA
+Net7=NetName=GH_B|NetColor=$006724DA
+Net8=NetName=GH_C|NetColor=$006724DA
+Net9=NetName=MCU_MISO|NetColor=$00009CFF
+Net10=NetName=MCU_MOSI|NetColor=$00009CFF
+Net11=NetName=MCU_SCK|NetColor=$00009CFF
+Net12=NetName=MCU_SWCLK|NetColor=$00CA9C00
+Net13=NetName=MCU_SWDIO|NetColor=$00CA9C00
+Net14=NetName=MCU_SWO|NetColor=$00CA9C00
+Net15=NetName=MCU_UART6_RX|NetColor=clFuchsia
+Net16=NetName=MCU_UART6_TX|NetColor=clFuchsia
+Net17=NetName=NetC10_1|NetColor=$006724DA
+Net18=NetName=NetQ2_4|NetColor=$006724DA
+Net19=NetName=NetQ4_4|NetColor=$006724DA
+Net20=NetName=NetQ6_4|NetColor=$006724DA
+Net21=NetName=PH_A|NetColor=$006724DA
+Net22=NetName=PH_B|NetColor=$006724DA
+Net23=NetName=PH_C|NetColor=$006724DA
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
