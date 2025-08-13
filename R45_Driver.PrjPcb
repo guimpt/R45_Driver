@@ -62,7 +62,7 @@ Assembly=ASM-`ProjectName`-`VariantName`
 [Release]
 ReleaseTarget=2
 ReleaseFolderPath=C:\Users\Guim\Documents\PROJECTES\Upwork\Jens F\LinearDriver\LinearDriver\Manufacturing\mfg.zip
-ReleaseZipPath=C:\Users\Guim\Documents\PROJECTES\Upwork\Jens F\LinearDriver\LinearDriver\Manufacturing\mfg.zip
+ReleaseZipPath=C:\Users\Guim\Documents\PROJECTES\Personal\R45_Driver\Project Outputs for R45_Driver\R45_Driver_v1.0_release.zip
 
 [Document1]
 DocumentPath=R45_Driver.SchDoc
