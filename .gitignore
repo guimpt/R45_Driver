@@ -17,4 +17,5 @@ Debug
 Release
 
 # Blender related
-*.png
+# *.png
+Renders
