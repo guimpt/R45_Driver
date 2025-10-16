@@ -19,8 +19,12 @@ This project showcases not only the driver’s **power and efficiency**, but als
 ![Driver photo](https://github.com/guimpt/R45_Driver/blob/main/doc/r45_assy.jpg)
 
 ## Manufacturing Sponsor  
-I sincerely thank **[PCBWay](https://www.pcbway.com/)** for sponsoring the fabrication and assembly of the R45 Motor Driver. Their **high-quality manufacturing**, **fast turnaround**, and **responsive support** greatly contributed to the success of this project.  
+I sincerely thank **[PCBWay](https://www.pcbway.com/)** for sponsoring the **fabrication and assembly** of the R45 Motor Driver. Their **precision manufacturing**, **fast turnaround**, and **excellent communication** were key in bringing this design to life.  
 
-PCBWay offers a wide range of options, including **varied stackups**, **flexible prototyping services**, and **competitive pricing**, making them a reliable partner for both development and production.  
+The R45 Motor Driver uses a **4-layer PCB** with fine-pitch components and tight thermal and current-handling requirements. PCBWay handled both fabrication and assembly with impressive quality and consistency.  
 
-<img src="https://github.com/guimpt/iot_hdmi_mux/blob/main/doc/pcbway.png" alt="PCBWay logo" style="width:25%; height:auto;">
+The **ordering process** was smooth — submitting the Gerber, BOM, and pick-and-place files was straightforward, and production was completed quickly. The assembled boards arrived well-packaged and ready for testing, with outstanding **soldering quality**, **component alignment**, and a **clean assembly finish**.  
+
+PCBWay’s reliability and attention to detail made them an outstanding partner for this project.
+
+<img src="https://github.com/guimpt/iot_hdmi_mux/blob/main/doc/pcbway.png" alt="PCBWay logo" style="width:35%; height:auto;">
