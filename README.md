@@ -18,6 +18,20 @@ This project showcases not only the driver’s **power and efficiency**, but als
 
 ![Driver photo](https://github.com/guimpt/R45_Driver/blob/main/doc/r45_assy.jpg)
 
+### Integration with the R45 PCB Motor Driver
+The R45 PCB Motor has been thoroughly tested with the **R45 PCB Motor Driver**, demonstrating smooth and efficient operation.  
+Together, they form a **fully integrated PCB-based motion solution** optimized for compact, high-performance applications.
+
+---
+
+## Video Demonstration
+
+See the **R45 PCB Motor** in action, powered by the **R45 PCB Motor Driver**:
+
+https://github.com/user-attachments/assets/a9114181-12df-47a5-8ba1-e5c257cac0da
+
+---
+
 ## Manufacturing Sponsor  
 I sincerely thank **[PCBWay](https://www.pcbway.com/)** for sponsoring the **fabrication and assembly** of the R45 Motor Driver. Their **precision manufacturing**, **fast turnaround**, and **excellent communication** were key in bringing this design to life.  
 
